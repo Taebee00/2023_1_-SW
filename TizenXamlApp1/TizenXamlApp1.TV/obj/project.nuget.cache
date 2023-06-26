@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "W0Crtf//J0vugaNZE3l8/NYgnNeNgn3ORmPuqU5bTVrSWP9UiiOIs5ri3XUqT09Ik6+Mmaz0gak4rfxxpkU//Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taebe\\Desktop\\Joe\\Embedded\\2023_1\\모바일SW\\[2023.03.13][툴설치및프로젝트]\\[2023.03.13][툴설치및프로젝트]\\TizenXamlApp1\\TizenXamlApp1\\TizenXamlApp1.TV\\TizenXamlApp1.TV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taebe\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.6\\microsoft.codeanalysis.analyzers.2.9.6.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\microsoft.codeanalysis.common\\3.4.0\\microsoft.codeanalysis.common.3.4.0.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.4.0\\microsoft.codeanalysis.csharp.3.4.0.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\skiasharp.views\\2.80.2\\skiasharp.views.2.80.2.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\tizen.net\\9.0.0.16760\\tizen.net.9.0.0.16760.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\tizen.net.api4\\4.0.1.14164\\tizen.net.api4.4.0.1.14164.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\tizenhotreloader\\1.0.1\\tizenhotreloader.1.0.1.nupkg.sha512",
+    "C:\\Users\\taebe\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}

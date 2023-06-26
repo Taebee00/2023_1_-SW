@@ -1,0 +1,15 @@
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\bin\TizenXamlApp1.TV.dll
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\bin\SkiaSharp.dll
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\bin\SkiaSharp.Views.Tizen.dll
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\bin\Xamarin.Forms.Core.dll
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\bin\Xamarin.Forms.Platform.Tizen.dll
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\bin\Xamarin.Forms.Platform.dll
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\bin\Xamarin.Forms.Xaml.dll
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\bin\TizenXamlApp1.dll
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\bin\TizenXamlApp1.pdb
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\TizenXamlApp1.TV.deps.json
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\bin\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\bin\runtimes\tizen-armel\native\libSkiaSharp.so
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\shared\res\TizenXamlApp1.TV.png
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\tpkroot\tizen-manifest.xml
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1.TV\bin\Release\tizen60\org.tizen.example.TizenXamlApp1.TV-1.0.0.tpk

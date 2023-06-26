@@ -1,0 +1,13 @@
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1\bin\Release\netstandard2.0\TizenXamlApp1.deps.json
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1\bin\Release\netstandard2.0\TizenXamlApp1.dll
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1\bin\Release\netstandard2.0\TizenXamlApp1.pdb
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1\obj\Release\netstandard2.0\TizenXamlApp1.csproj.AssemblyReference.cache
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1\obj\Release\netstandard2.0\TizenXamlApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1\obj\Release\netstandard2.0\TizenXamlApp1.AssemblyInfoInputs.cache
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1\obj\Release\netstandard2.0\TizenXamlApp1.AssemblyInfo.cs
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1\obj\Release\netstandard2.0\TizenXamlApp1.csproj.CoreCompileInputs.cache
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1\obj\Release\netstandard2.0\TizenXamlApp1.dll
+C:\Users\taebe\Desktop\Joe\Embeded\2023_1\모바일SW\[2023.03.13][툴설치및프로젝트]\[2023.03.13][툴설치및프로젝트]\TizenXamlApp1\TizenXamlApp1\TizenXamlApp1\obj\Release\netstandard2.0\TizenXamlApp1.pdb
